@@ -13,4 +13,4 @@ def test_hello_subtract():
 
 #run to see failed test
 def test_hello_add():
-    assert add(test_hello_add.x) == 12  
+    assert add(test_hello_add.x) == 11  
