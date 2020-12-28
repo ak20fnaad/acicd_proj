@@ -53,4 +53,7 @@ Instructions
       f)Verify Prediction with starter code (in this case)
 
 
-Note: Afile screenshots will be included.    https://github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx
+Note: Afile screenshots will be included.  
+ ![Screen shots](https://raw.github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx)
+https://github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx
+https://dev.azure.com/nfisseha/acicd_proj/_build?definitionId=3&_a=summary
