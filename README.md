@@ -54,7 +54,7 @@ Instructions
 
 
 Note: Afile screenshots will be included.  
- ![Screen shots](https://raw.github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx)
+ ![Screen shots](https://github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx)
  
  
 https://github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx
