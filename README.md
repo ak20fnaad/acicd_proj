@@ -52,6 +52,9 @@ Instructions
       e)Deploying to Azure pipelines
       f)Verify Prediction with starter code (in this case)
 
+4. Future improvement for the project
+  In the future more steps will be added to the various stages, more operation will be performed for an indepth upderstanding. 
+  
 
 Note: Afile screenshots will be included.  
  ![Screen shots](https://github.com/ak20fnaad/acicd_proj/blob/main/Proj_deliver.docx)
